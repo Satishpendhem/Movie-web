@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../iMovies"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SR Play"
+	}
+}
